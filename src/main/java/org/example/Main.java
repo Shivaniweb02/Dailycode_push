@@ -10,6 +10,9 @@ public class Main {
 //        starPattern.starpatter_3(10);
         reverseNumberPattern reverseNumberPattern=new reverseNumberPattern();
         reverseNumberPattern.revNum(5);
+//        AlphabeticalPattern.aplha_pattern(10);
+//        AlphabeticalPattern.aplha_pattern_triangle(10);
+        AlphabeticalPattern.aplha_pattern_triangle_increment(10);
 
     }
 }
